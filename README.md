@@ -1,5 +1,6 @@
 
 
+
 # pro
 # Colégio E.C.M. Afonso Camargo
 * Meu nome é Solange, sou professora do componente Pensamento Computacional
@@ -9,4 +10,6 @@
 
 
 ![]() ![image](https://github.com/palmasol/pro/assets/144961347/c7177d3d-7110-4d36-8d98-9934f250128e)
+![]() ![image](https://github.com/palmasol/pro/assets/144961347/70232b81-98fa-46a4-8b89-3b4e773377f8)
+
 
